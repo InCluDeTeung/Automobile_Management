@@ -1,0 +1,12 @@
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.deps.json
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.dll
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\bin\Debug\net6.0\AutomobileLibrary.pdb
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.AssemblyInfo.cs
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.dll
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\obj\Debug\net6.0\refint\AutomobileLibrary.dll
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\obj\Debug\net6.0\AutomobileLibrary.pdb
+D:\Project\PRN211\SANG\git\LAB1_AUTOMOBILE_MANAGEMENT_LINQ_WINFORM\LAB1_AutomobileManagement\AutomobileLibrary\obj\Debug\net6.0\ref\AutomobileLibrary.dll
